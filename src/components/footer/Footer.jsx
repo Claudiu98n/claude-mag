@@ -34,9 +34,9 @@ function Footer() {
                         </a>
                     </p>
                     <p className="m-0">
-                        <a href="https://www.linkedin.com/in/razvancirlugea/">
+                        <a href="https://www.linkedin.com/in/claudiu-neagu/">
                             <LinkedIn className="mr-1 footer-icon"/>
-                            razvancirlugea
+                            claudiuneagu
                         </a>
                     </p>
                 </div>
