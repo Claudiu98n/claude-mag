@@ -1,0 +1,236 @@
+{
+    "sunglasses": {
+        "items": [
+            {
+                "id": 1,
+                "name": "Ochelari de soare Hawkers",
+                "price": 155,
+                "currency": "LEI",
+                "image": "https://i.imgur.com/a2oHKF4.jpg",
+                "size": "Universală",
+                "colour": "Negru",
+                "material": "Plastic",
+                "brand": "Hawkers",
+                "description": "Ochelari de soare Hawkers, pentru bărbați, cu protecție UV400."
+            },
+            {
+                "id": 2,
+                "name": "Ochelari de soare Gucci",
+                "price": 1250,
+                "currency": "LEI",
+                "image": "https://i.imgur.com/ZjnwdtH.jpg",
+                "size": "Universală",
+                "colour": "Negru",
+                "material": "Plastic",
+                "brand": "Gucci",
+                "description": "Ocehlari de soare, de lux, din colecția primăvară-vară, Gucci 2020."
+            },
+            {
+                "id": 3,
+                "name": "Ochelari de soare Ray-Ban",
+                "price": 520,
+                "currency": "LEI",
+                "image": "https://i.imgur.com/H3OkgC8.jpg",
+                "size": "Universală",
+                "colour": "Negru",
+                "material": "Plastic",
+                "brand": "Ray-Ban",
+                "description": "Ochelari de soare Ray-Ban cu accente aurii."
+            }
+        ],
+        "image": "https://i.imgur.com/L0eyUT2.jpg",
+        "name": "Ochelari de soare",
+        "description": "Ochelari de soare polarizați, doar pentru barbați."
+    },
+    "eyeglasses": {
+        "items": [
+            {
+                "id": 4,
+                "name": "Ochelari de vedere Dolce & Gabbana",
+                "price": 875,
+                "currency": "LEI",
+                "image": "https://i.imgur.com/yg5nbig.jpg",
+                "size": "Universală",
+                "colour": "Havana",
+                "material": "Plastic",
+                "brand": "Dolce & Gabbana",
+                "description": "Ochelari de vedere Dolce & Gabbana, colecția toamnă-iarnă 2020."
+            },
+            {
+                "id": 5,
+                "name": "Ochelari de vedere Fossil",
+                "price": 420,
+                "currency": "LEI",
+                "image": "https://i.imgur.com/HghtMcq.jpg",
+                "size": "48",
+                "colour": "Negru",
+                "material": "Metal",
+                "brand": "Fossil",
+                "description": "Ochelari de vedere Fossil pentru ținute Casual / Smart-Casual."
+            },
+            {
+                "id": 6,
+                "name": "Ochelari de vedere Emporio Armani",
+                "price": 545,
+                "currency": "LEI",
+                "image": "https://i.imgur.com/GSjWeP0.jpg",
+                "size": "55",
+                "colour": "Albastru",
+                "material": "Plastic",
+                "brand": "Emporio Armani",
+                "description": "Ochelari de vedere Emporio Armani cu protecție ecran, ușor de purtat la orice tip de ținută."
+            },
+            {
+                "id": 7,
+                "name": "Ochelari de vedere Carrera",
+                "price": 274,
+                "currency": "LEI",
+                "image": "https://i.imgur.com/iClujll.jpg",
+                "size": "55",
+                "colour": "Auriu",
+                "material": "Metal",
+                "brand": "Carrera",
+                "description": "Ochelari de vedere aurii Carrera, cu aspect de ochelari de soare."
+            }
+        ],
+        "image": "https://i.imgur.com/YepWAOb.jpg",
+        "name": "Ochelari de vedere",
+        "description": "Ochelari de vedere pentru corecția acuității vizuale."
+    },
+    "colored-lenses": {
+        "items": [
+            {
+                "id": 8,
+                "name": "Dailies TOTAL1 (90 lentile)",
+                "price": 367,
+                "currency": "LEI",
+                "image": "https://i.imgur.com/Jjl0kxU.png",
+                "size": "Universală",
+                "colour": "Transparentă",
+                "material": "Silicon - Hydrogel",
+                "brand": "Dailies",
+                "description": "Pentru o vedere impecabil de clară, mai ales in condiții de lumină difuză."
+            },
+            {
+                "id": 9,
+                "name": "TopVue Daily (180 lentile)",
+                "price": 344,
+                "currency": "LEI",
+                "image": "https://i.imgur.com/ZTBmZTp.png",
+                "size": "Universală",
+                "colour": "Transparentă",
+                "material": "Hidrogel Etafilcon A",
+                "brand": "TopVue",
+                "description": "TopVue sunt printre puținele lentile care au și filtru UV."
+            }
+        ],
+        "image": "https://i.imgur.com/kpAgWFN.jpg",
+        "name": "Lentile de contact",
+        "description": "Ușor de folosit, pentru confort sporit!"
+    },
+    "lenses": {
+        "items": [
+            {
+                "id": 10,
+                "name": "Lentila ochelari de vedere Interoptik",
+                "price": 80,
+                "currency": "LEI",
+                "image": "https://i.imgur.com/875jjXm.jpg",
+                "size": "Universală",
+                "colour": "Transparentă",
+                "material": "Polycarbonat",
+                "brand": "Interoptik",
+                "description": "Oferă claritate vederii, reflexiile fiind aproape complet eliminate."
+            },
+            {
+                "id": 11,
+                "name": "Lentila ochelari de vedere ZEISS",
+                "price": 220,
+                "currency": "LEI",
+                "image": "https://i.imgur.com/CAsPppd.jpg",
+                "size": "Universală",
+                "colour": "Transparentă",
+                "material": "Trivex",
+                "brand": "ZEISS",
+                "description": "Oferă o experiență vizuală excepțională, la orice distanță."
+            }
+        ],
+        "image": "https://i.imgur.com/XehIx1t.jpg",
+        "name": "Lentile de vedere",
+        "description": "Lentilă pentru pupilă!"
+    },
+    "cases": {
+        "items": [
+            {
+                "id": 12,
+                "name": "Etui Vlad Țepeș",
+                "price": 210,
+                "currency": "LEI",
+                "image": "https://i.imgur.com/ZZfblvT.jpg",
+                "size": "15x18",
+                "colour": "Multicolor",
+                "material": "Poliester",
+                "brand": "Green Ideas",
+                "description": "Calitatea este garantată. Nu te trage nimeni in țeapă!"
+            },
+            {
+                "id": 13,
+                "name": "Etui lan de grâu",
+                "price": 105,
+                "currency": "LEI",
+                "image": "https://i.imgur.com/0PDcdfw.jpg",
+                "size": "15x18",
+                "colour": "Galben-Verzui",
+                "material": "Poliester",
+                "brand": "Green Ideas",
+                "description": "Etui șic ilustrând un lan de grâu."
+            },
+            {
+                "id": 14,
+                "name": "Etui abstract",
+                "price": 85,
+                "currency": "LEI",
+                "image": "https://i.imgur.com/Ca17iAj.jpg",
+                "size": "15x18",
+                "colour": "Multicolor",
+                "material": "Poliester",
+                "brand": "Green Ideas",
+                "description": "Etui abstract, cu părți laterale multicolore și interior în tonuri de maro."
+            }
+        ],
+        "image": "https://i.imgur.com/GpZZcOu.jpg",
+        "name": "Toc ochelari / Etui",
+        "description": "Înveliș elegant pentru ochelarii tăi."
+    },
+    "accesories": {
+        "items": [
+            {
+                "id": 15,
+                "name": "Săculeț ochelari Polarizen",
+                "price": 40,
+                "currency": "LEI",
+                "image": "https://i.imgur.com/jfxT1C8.jpg",
+                "size": "Universală",
+                "colour": "Negru",
+                "material": "Textil",
+                "brand": "Polarizen",
+                "description": "Săculeț pentru ochelari, din material subțire, pentru protecție."
+            },
+            {
+                "id": 16,
+                "name": "Soluție Alcon pentru curățare lentile de contact",
+                "price": 60,
+                "currency": "LEI",
+                "image": "https://i.imgur.com/bUMRSYh.jpg",
+                "size": "330 ml",
+                "colour": "Negru",
+                "material": "Înveliș din plastic",
+                "brand": "Alcon",
+                "description": "Dacă ai impresia că prețul este mare, îți recomandăm soluția noastră de curățare a lentilelor de contact."
+            }
+        ],
+        "image": "https://i.imgur.com/sJb87ug.jpg",
+        "name": "Soluții si accesorii",
+        "description": "Pentru prelungirea duratei de viață a ochelarilor / lentilelor dvs!"
+    }
+}

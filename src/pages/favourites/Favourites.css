@@ -1,0 +1,15 @@
+.favourite-page svg {
+    cursor: pointer;
+}
+
+.favourite-page img {
+    max-width: 50px;
+}
+
+.empty-favourite-page {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
