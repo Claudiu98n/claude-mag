@@ -12,7 +12,7 @@ The login part is realised with Firebase API and provides two login methods: Fac
 
 ## To run the project locally
 1. git clone https://github.com/Claudiu98n/claude-mag.git
-2. cd react-admin-panel
+2. cd claude-mag
 3. npm install
 4. npm start
 
